@@ -41,16 +41,16 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/s-sabari-raj-32028b227/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-red?style=for-the-badge&logo=linkedin&logoColor=gold" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=red&borderColor=gold&borderWidth=2" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.codechef.com/users/sabarirajssr" target="blank">
-    <img src="https://img.shields.io/badge/CodeChef-gold?style=for-the-badge&logo=codechef&logoColor=red" alt="CodeChef Badge"/>
+    <img src="https://img.shields.io/badge/CodeChef-000000?style=for-the-badge&logo=codechef&logoColor=red&borderColor=gold&borderWidth=2" alt="CodeChef Badge"/>
   </a>
   <a href="https://www.hackerrank.com/profile/AP21110011027P" target="blank">
-    <img src="https://img.shields.io/badge/HackerRank-red?style=for-the-badge&logo=hackerrank&logoColor=gold" alt="HackerRank Badge"/>
+    <img src="https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=hackerrank&logoColor=red&borderColor=gold&borderWidth=2" alt="HackerRank Badge"/>
   </a>
   <a href="https://leetcode.com/u/Sabari_raj/" target="blank">
-    <img src="https://img.shields.io/badge/LeetCode-gold?style=for-the-badge&logo=leetcode&logoColor=red" alt="LeetCode Badge"/>
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=red&borderColor=gold&borderWidth=2" alt="LeetCode Badge"/>
   </a>
 </p>
 
