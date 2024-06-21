@@ -7,7 +7,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sabariraj01" alt="sabariraj01" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sabariraj01" alt="sabariraj01" /></a> </p>
 
 <h2 align="center">🚀 About Me</h2>
 
@@ -21,7 +21,7 @@
 
 ### :link: Connect with Me
 
-<p align-items="center">
+<p align="center">
 
 <a href="https://www.linkedin.com/in/s-sabari-raj-32028b227/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 
@@ -77,5 +77,5 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sabariraj01/count.svg" />
+  <img src="https://profile-counter.glitch.me/sabariraj01/count.svg&theme=dark&background=000000" />
 </p>
