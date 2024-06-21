@@ -3,9 +3,6 @@
 <h1 align="center">Hi 👋, I'm Sabari raj</h1>
 <h3 align="center">A Passionate Web Developer and Machine learning Enthusiast..</h3>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
