@@ -21,7 +21,7 @@
 
 ### :link: Connect with Me
 
-<p align="center">
+<p align-items="center">
 
 <a href="https://www.linkedin.com/in/s-sabari-raj-32028b227/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 
