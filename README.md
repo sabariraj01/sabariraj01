@@ -15,7 +15,7 @@
 
 - 👨‍💻 I’m currently learning **MERN stack, Machine learning**
 
-- 👨‍💻 Check out my first website: [My First Domain Website](https://sabariraj-portfolio.onrender.com)
+- 👨‍💻 Check out my first website: [Portfolio] (https://sabariraj-portfolio.onrender.com)
 
 - 📫 Reach me at **sabarirajssr143@gmail.com**
 
