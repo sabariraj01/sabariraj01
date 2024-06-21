@@ -34,14 +34,21 @@
 
 ### :link: Connect with Me
 
-<p align="center" align-items="center">
-
-<a href="https://www.linkedin.com/in/s-sabari-raj-32028b227/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-<a href="https://www.codechef.com/users/sabarirajssr" target="blank"><img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Badge"/></a>
-<a href="https://www.hackerrank.com/profile/AP21110011027P" target="blank"><img src="https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge"/></a>
-<a href="https://leetcode.com/u/Sabari_raj/" target="blank"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/></a>
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/s-sabari-raj-32028b227/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.codechef.com/users/sabarirajssr" target="blank">
+    <img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Badge"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/AP21110011027P" target="blank">
+    <img src="https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge"/>
+  </a>
+  <a href="https://leetcode.com/u/Sabari_raj/" target="blank">
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
+  </a>
 </p>
+
 
 ---
 
@@ -54,8 +61,8 @@
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" style="margin: 0 10px;"/>
   </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express" width="40" height="40" style="margin: 0 10px;"/>
+   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" height="40" style="margin: 0 10px;"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" style="margin: 0 10px;"/>
