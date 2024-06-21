@@ -10,6 +10,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sabariraj01" alt="sabariraj01" /></a> </p>
 
 <h2 align="center">🚀 About Me</h2>
+
 - 👨‍💻 I’m currently learning **MERN stack, Machine learning**
 
 - 👨‍💻 Check out my first website: [My First Domain Website](https://sabariraj-portfolio.onrender.com)
@@ -18,7 +19,9 @@
 
 
 ### :link: Connect with Me
+
 <p align="left">
+  
 <a href="https://www.linkedin.com/in/s-sabari-raj-32028b227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabariraj s" height="30" width="40" /></a>
   
 <a href="https://www.codechef.com/users/sabarirajssr" target="blank"><img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Badge"/></a>
@@ -55,13 +58,15 @@ chan
 
 ### :fire: My Stats
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabariraj01&show_icons=true&locale=en&layout=compact" alt="sabariraj01" />
+<p align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sabariraj01&show_icons=true&locale=en" alt="sabariraj01" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=sabariraj01&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="sabariraj01" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabariraj01&theme=dark&background=000000" alt="sabariraj01" />
+  
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sabariraj01&show_icons=true&locale=en" alt="sabariraj01" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabariraj01&" alt="sabariraj01" /></p>
 
 
 <p align="center"> 
