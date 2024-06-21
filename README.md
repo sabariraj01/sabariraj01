@@ -13,61 +13,9 @@
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sabariraj01&theme=dracula&row=1&column=7&margin-w=15&margin-h=15" alt="sabariraj01" style="width: 100%; max-width: 800px;" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sabariraj01&theme=grass&row=1&column=7&margin-w=15&margin-h=15" alt="sabariraj01" style="width: 100%; max-width: 800px;" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sabariraj01&theme=ocean_dark&row=1&column=7&margin-w=15&margin-h=15" alt="sabariraj01" style="width: 100%; max-width: 800px;" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sabariraj01&theme=nord&row=1&column=7&margin-w=15&margin-h=15" alt="sabariraj01" style="width: 100%; max-width: 800px;" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sabariraj01&theme=darkhub&row=1&column=7&margin-w=15&margin-h=15" alt="sabariraj01" style="width: 100%; max-width: 800px;" />
-  </a>
-</div>
-
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sabariraj01&theme=onedark&row=1&column=7&margin-w=15&margin-h=15" alt="sabariraj01" style="width: 100%; max-width: 800px;" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=sabariraj01&theme=radical&row=1&column=7&margin-w=15&margin-h=15" alt="sabariraj01" style="width: 100%; max-width: 800px;" />
   </a>
 </div>
----
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sabariraj01&theme=monokai&row=1&column=7&margin-w=15&margin-h=15" alt="sabariraj01" style="width: 100%; max-width: 800px;" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sabariraj01&theme=algolia&row=1&column=7&margin-w=15&margin-h=15" alt="sabariraj01" style="width: 100%; max-width: 800px;" />
-  </a>
-</div>
-
-
 
 
 <h2 align="center">🚀 About Me..</h2>
