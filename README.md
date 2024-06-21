@@ -20,7 +20,7 @@
 
 ### :link: Connect with Me
 
-<p align="left">
+<p align="center">
   
 <a href="https://www.linkedin.com/in/s-sabari-raj-32028b227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabariraj s" height="30" width="40" /></a>
   
@@ -33,7 +33,7 @@
 
 chan
 ### :hammer_and_wrench: Languages and Tools
-<p align="left"> 
+<p align="center"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" style="margin: 0 10px;"/>
   </a>
