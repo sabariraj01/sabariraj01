@@ -10,7 +10,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sabariraj01" alt="sabariraj01" /></a> </p>
 
 <h2 align="center">🚀 About Me</h2>
-- 👨‍💻 I’m currently learning **MERN stack, Machine learning..**
+- 👨‍💻 I’m currently learning **MERN stack, Machine learning**
 
 - 👨‍💻 Check out my first website: [My First Domain Website](https://sabariraj-portfolio.onrender.com)
 
