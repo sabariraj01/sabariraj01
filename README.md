@@ -13,7 +13,9 @@
 
 <h2 align="center">🚀 About Me</h2>
 
-Hello! I'm Sabari, a software developer with a passion for creating innovative solutions and exploring new technologies. My journey in the tech world has been driven by curiosity and a desire to constantly learn and grow. Whether it's coding, debugging, or collaborating on projects, I thrive on the challenges and opportunities that come my way.
+<div align='center'>
+  Hello! This is Sabari, a software developer with a passion for creating innovative solutions and exploring new technologies. My journey in the tech world has been driven by curiosity and a desire to constantly learn and grow.
+</div>
 
 - 💻 I specialize in **MERN Stack**
 
@@ -29,7 +31,7 @@ Hello! I'm Sabari, a software developer with a passion for creating innovative s
 
 ### :link: Connect with Me
 
-<p aalign="center" style="text-align: center;">
+<p align="center" style="text-align: center;">
 
 <a href="https://www.linkedin.com/in/s-sabari-raj-32028b227/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 <a href="https://www.codechef.com/users/sabarirajssr" target="blank"><img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Badge"/></a>
