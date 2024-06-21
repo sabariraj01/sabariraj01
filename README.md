@@ -14,7 +14,7 @@
 <h2 align="center">🚀 About Me</h2>
 
 <div align='center'>
-  Hello! This is Sabari, a software developer with a passion for creating innovative solutions and exploring new technologies. My journey in the tech world has been driven by curiosity and a desire to constantly learn and grow.
+               I,m a software developer with a passion for creating innovative solutions and exploring new technologies. My journey in the tech world has been driven by curiosity and a desire to constantly learn and grow.
 </div>
 
 - 💻 I specialize in **MERN Stack**
