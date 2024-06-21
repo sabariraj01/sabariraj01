@@ -62,7 +62,7 @@
 
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sabariraj01&show_icons=true&locale=en" alt="sabariraj01" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sabariraj01&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="sabariraj01" />
 
   <img src="https://github-readme-stats.vercel.app/api?username=sabariraj01&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="sabariraj01" />
 
