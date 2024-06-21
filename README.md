@@ -17,6 +17,7 @@
 
 - 📫 Reach me at **sabarirajssr143@gmail.com**
 
+---
 
 ### :link: Connect with Me
 
@@ -31,7 +32,8 @@
 <a href="https://leetcode.com/u/Sabari_raj/" target="blank"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/></a>
 </p>
 
-chan
+---
+
 ### :hammer_and_wrench: Languages and Tools
 <p align="center"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
