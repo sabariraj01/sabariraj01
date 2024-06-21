@@ -77,5 +77,5 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sabariraj01/count.svg&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" />
+  <img src="https://profile-counter.glitch.me/sabariraj01/count.svg" />
 </p>
