@@ -22,14 +22,18 @@
 ### :link: Connect with Me
 
 <p align="center">
-  
-<a href="https://www.linkedin.com/in/s-sabari-raj-32028b227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabariraj s" height="30" width="40" /></a>
-  
+
+<a href="https://www.linkedin.com/in/s-sabari-raj-32028b227/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+
+
 <a href="https://www.codechef.com/users/sabarirajssr" target="blank"><img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Badge"/></a>
+
 
 <a href="https://www.hackerrank.com/profile/AP21110011027P" target="blank"><img src="https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge"/></a>
 
+
 <a href="https://leetcode.com/u/Sabari_raj/" target="blank"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/></a>
+
 </p>
 
 ---
