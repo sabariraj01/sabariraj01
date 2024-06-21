@@ -1,5 +1,7 @@
 [![An image of @sabariraj01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sabariraj01)](https://holopin.io/@sabariraj01)
 
+---
+
 <h1 align="center">Hi 👋, I'm Sabari raj</h1>
 
 <h3 align="center">A Passionate Web Developer and Machine learning Enthusiast..</h3>
@@ -65,7 +67,7 @@
   </a>
 </p>
 
-
+---
 
 ### :fire: My Stats
 
@@ -79,6 +81,7 @@
   
 </p>
 
+---
 
 <p align="center"> 
   Visitor count<br>
