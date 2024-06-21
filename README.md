@@ -39,36 +39,18 @@
 
 ### :link: Connect with Me
 
-<style>
-  .custom-badge {
-    display: inline-block;
-    padding: 10px 20px;
-    margin: 5px;
-    font-size: 14px;
-    font-weight: bold;
-    color: red;
-    background-color: black;
-    border: 2px solid gold;
-    border-radius: 5px;
-    text-decoration: none;
-  }
-  .custom-badge:hover {
-    background-color: #333;
-  }
-</style>
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/s-sabari-raj-32028b227/" target="blank" class="custom-badge">
-    LinkedIn
+  <a href="https://www.linkedin.com/in/s-sabari-raj-32028b227/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=red&labelColor=black" alt="LinkedIn Badge" style="border: 2px solid gold;"/>
   </a>
-  <a href="https://www.codechef.com/users/sabarirajssr" target="blank" class="custom-badge">
-    CodeChef
+  <a href="https://www.codechef.com/users/sabarirajssr" target="blank">
+    <img src="https://img.shields.io/badge/CodeChef-black?style=for-the-badge&logo=codechef&logoColor=red&labelColor=black" alt="CodeChef Badge" style="border: 2px solid gold;"/>
   </a>
-  <a href="https://www.hackerrank.com/profile/AP21110011027P" target="blank" class="custom-badge">
-    HackerRank
+  <a href="https://www.hackerrank.com/profile/AP21110011027P" target="blank">
+    <img src="https://img.shields.io/badge/HackerRank-black?style=for-the-badge&logo=hackerrank&logoColor=red&labelColor=black" alt="HackerRank Badge" style="border: 2px solid gold;"/>
   </a>
-  <a href="https://leetcode.com/u/Sabari_raj/" target="blank" class="custom-badge">
-    LeetCode
+  <a href="https://leetcode.com/u/Sabari_raj/" target="blank">
+    <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=red&labelColor=black" alt="LeetCode Badge" style="border: 2px solid gold;"/>
   </a>
 </p>
 
