@@ -21,7 +21,7 @@
 
 - 🌱 Currently learning **Machine learning** and **Deep learning**
 
-- - 🎨 I love working on open-source projects and contributing to the developer community.
+- 🎨 I love working on open-source projects and contributing to the developer community.
   
 - 👨‍💻 Check out my [Portfolio](https://sabariraj-portfolio.onrender.com)
 
