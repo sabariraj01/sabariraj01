@@ -2,7 +2,7 @@
  
 ---
 
-<h1 align="center">Hi 👋, I'm Sabari raj</h1>
+<h1 align="center" style="color: red; font-family: 'Helvetica', sans-serif; font-weight: bold;">Hi 👋, I'm Sabari raj</h1>
 
 <h3 align="center">A Passionate Web Developer and Machine learning Enthusiast..</h3>
 
