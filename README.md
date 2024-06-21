@@ -13,8 +13,14 @@
 
 <h2 align="center">🚀 About Me</h2>
 
-- 👨‍💻 I’m currently learning **MERN stack** and **Machine Learning..**
+Hello! I'm Sabari, a software developer with a passion for creating innovative solutions and exploring new technologies. My journey in the tech world has been driven by curiosity and a desire to constantly learn and grow. Whether it's coding, debugging, or collaborating on projects, I thrive on the challenges and opportunities that come my way.
 
+- 💻 I specialize in **MERN Stack**
+
+- 🌱 Currently learning **Machine learning** and **Deep learning**
+
+- - 🎨 I love working on open-source projects and contributing to the developer community.
+  
 - 👨‍💻 Check out my [Portfolio](https://sabariraj-portfolio.onrender.com)
 
 - 📫 Reach me at **sabarirajssr143@gmail.com**
